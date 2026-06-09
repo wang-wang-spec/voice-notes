@@ -1,0 +1,5 @@
+{
+  "buildCommand": "next build",
+  "installCommand": "npm install --registry=https://registry.npmmirror.com",
+  "framework": "nextjs"
+}
